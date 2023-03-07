@@ -1,1 +1,1 @@
-[# rsschool-cv](https://Dictordozel.github.io/rsschool-cv/cv)
+[# rsschool-cv](https://Dictordozel.github.io/rsschool-cv/)
