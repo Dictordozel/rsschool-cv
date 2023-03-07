@@ -39,3 +39,8 @@ function myLanguages(obj) {
      return res;
 }
 ```
+
+## __Education__
+
+* GLO-Academy
+* independent study
