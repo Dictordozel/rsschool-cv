@@ -44,3 +44,8 @@ function myLanguages(obj) {
 
 * GLO-Academy
 * independent study
+
+## __Languages__
+
+* Russian (native)
+* English (A1)
